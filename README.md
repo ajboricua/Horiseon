@@ -1,5 +1,5 @@
 # Horiseon-agency 
-## We provide SEO & SMM services for businesses around the internet.
+## We provide SEO, ORM & SMM services for businesses around the internet.
 
 ## Built With
 * HTML
