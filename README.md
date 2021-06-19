@@ -1,5 +1,5 @@
 ## Horiseon-agency 
-*A business that deliveries SEO & SEM to business around the internet.
+# A business that deliveries SEO & SEM to business around the internet.
 
 ##
 
