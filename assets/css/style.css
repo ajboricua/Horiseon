@@ -57,7 +57,7 @@ p {
 
 
 
-    /* Hero Article section starts */
+    /* slider */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,7 +67,8 @@ p {
     background-position: center;
 }
 
-    /* floatations */
+
+    /* article/section starts here */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -83,7 +84,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-    /* Hero style ends */
+    /* article/section style ends */
 
 
     /* Sidebar of benefit starts */
